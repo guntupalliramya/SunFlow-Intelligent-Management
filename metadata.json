@@ -1,0 +1,6 @@
+{
+  "name": "SunFlow AI – Solar Installation Management System",
+  "description": "Unified solar installation ERP for SunPower Solutions. End-to-end management from lead, site survey, BOM quotation, inventory serial tracking, crew installation to warranty and service tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
